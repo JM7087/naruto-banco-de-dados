@@ -23,6 +23,8 @@ Este projeto é uma aplicação web que utiliza a API do Naruto para buscar info
 - HTML
 - CSS
 
+**Observação**: API do Naruto não oferece suporte para busca por parte do nome. Para contornar esse problema, foi implementada uma função no JavaScript que busca o personagem em todas as páginas disponíveis da API até encontrá-lo. Caso o personagem não seja encontrado em nenhuma página, será exibida uma mensagem indicando que o personagem não foi encontrado.
+
 ## Como Usar
 
 1. Clone este repositório para o seu ambiente local.
