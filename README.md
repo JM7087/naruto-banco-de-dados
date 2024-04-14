@@ -12,7 +12,7 @@ Este projeto é uma aplicação web que utiliza a API do Naruto para buscar info
 
 ## Funcionalidades
 
-- Permite buscar um personagem pelo nome completo ou parte do nome.
+- Permite buscar um personagem pelo nome completo ou parte do nome ou ID do Personagem.
 - Exibe informações detalhadas sobre o personagem encontrado, como seu nome, ID, estreia no anime, jutsu, tipo de natureza, gênero, classificação, ocupação, afiliação e ferramentas.
 - Responsivo, adaptado para dispositivos móveis.
 
